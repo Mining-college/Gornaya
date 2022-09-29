@@ -1,0 +1,19 @@
+body {background-image: url(wall.jpg);
+      background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: 100% 100%;
+	font-size: 50px;
+      font-family: Times New Roman, Verdana;
+	  font-style: italic;
+	background-color: none}
+	p      {margin: 50px 50px;
+			font-family: arial, impact;
+            font-size: 35px;
+            color: red}
+    table {width: 80%; border-style: solid;
+	border-width: 2px;
+	font-size: 30px;
+	border-collapse: collapse;
+	}
+	tr {border-width: 2px; border-style: solid}
+	td{border-width: 2px; border-style: solid}
